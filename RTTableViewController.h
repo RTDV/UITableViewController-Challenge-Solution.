@@ -1,5 +1,5 @@
 //
-//  RTViewController.h
+//  RTTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Artyom Voronko on 26/03/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RTViewController : UIViewController
+@interface RTTableViewController : UITableViewController
 
 @end
